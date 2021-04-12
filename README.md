@@ -22,5 +22,5 @@ The first part is about extracting and analyzing the data, and then effectively 
 
 
 ## Running the project:
-1 -- MySQL Workbench or similar is need.
+1 -- MySQL Workbench or similar is needed.
 2 -- Extract the database from the zip file to read to the project script.
